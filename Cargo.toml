@@ -1,0 +1,8 @@
+[package]
+name = "amm-lp-simulator"
+version = "0.1.0"
+edition = "2021"
+description = "Monte Carlo LP vs HODL simulator for constant-product AMMs"
+license = "MIT"
+
+[dependencies]
